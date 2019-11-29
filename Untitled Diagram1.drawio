@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-28T06:45:16.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="Qc3zLN8wnzULMx0X7KGq" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-29T08:03:15.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="XPRbLThHLbxOOGNb58hA" version="12.3.3" type="github" pages="1">
   <diagram id="-yFMah9nlYu9oXamQMR5" name="Page-1">
-    <mxGraphModel dx="1022" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="695" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -22,8 +22,8 @@
         <mxCell id="srwLFo3CpR1ze2gh4oJ3-5" value="Management VM&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="325" y="89" width="130" height="10" as="geometry"/>
         </mxCell>
-        <mxCell id="srwLFo3CpR1ze2gh4oJ3-6" value="Management ESXi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="132" width="40" height="20" as="geometry"/>
+        <mxCell id="srwLFo3CpR1ze2gh4oJ3-6" value="Platform Controller" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="268" y="148" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="srwLFo3CpR1ze2gh4oJ3-7" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" parent="1" vertex="1">
           <mxGeometry x="271" y="380" width="38" height="52" as="geometry"/>
@@ -31,8 +31,8 @@
         <mxCell id="srwLFo3CpR1ze2gh4oJ3-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" parent="1" vertex="1">
           <mxGeometry x="360" y="158" width="50" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="srwLFo3CpR1ze2gh4oJ3-9" value="Production ESXi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="342" width="40" height="20" as="geometry"/>
+        <mxCell id="srwLFo3CpR1ze2gh4oJ3-9" value="CRG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="268" y="360" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="srwLFo3CpR1ze2gh4oJ3-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" parent="1" vertex="1">
           <mxGeometry x="360" y="342" width="50" height="40" as="geometry"/>
@@ -46,7 +46,7 @@
         <mxCell id="srwLFo3CpR1ze2gh4oJ3-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" parent="1" vertex="1">
           <mxGeometry x="360" y="398" width="50" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="srwLFo3CpR1ze2gh4oJ3-14" value="Deploy Platform Controller ESX Hyper-visor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="srwLFo3CpR1ze2gh4oJ3-14" value="PowerOne Infra" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="72" y="283" width="266" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="srwLFo3CpR1ze2gh4oJ3-15" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
